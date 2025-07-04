@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"e9176d1ae4a28052","type":"file","file":"KOZMOZ/Kozmoz.md","x":-640,"y":-600,"width":1120,"height":520},
+		{"id":"1cbc3d853614445d","type":"file","file":"KOZMOZ/Characters/Dr. Elias Q. Mendel.md","x":-1920,"y":-1320,"width":620,"height":380},
+		{"id":"d93e7eb48e89cea5","type":"file","file":"KOZMOZ/Characters/Elrique.md","x":-1920,"y":-880,"width":620,"height":480},
+		{"id":"5da789520c0e9e53","type":"file","file":"KOZMOZ/Characters/Erebos.md","x":-1920,"y":-340,"width":620,"height":400},
+		{"id":"65cbcc9253fde5aa","type":"file","file":"KOZMOZ/Characters/Ishmael.md","x":-1920,"y":120,"width":620,"height":840},
+		{"id":"11b586e5cafdb0c9","type":"file","file":"KOZMOZ/Characters/X.md","x":-1920,"y":1000,"width":620,"height":400},
+		{"id":"78f673c38eb3b307","x":-280,"y":640,"width":400,"height":400,"type":"file","file":"KOZMOZ/Arcs.md"},
+		{"id":"eb085e9b1c80d110","type":"file","file":"KOZMOZ/Power System.md","x":920,"y":-940,"width":1040,"height":1200},
+		{"id":"7427e840e5e9e5f3","type":"file","file":"KOZMOZ/Glossary.md","x":-280,"y":-1530,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a3ab3ab35dadc2ec","fromNode":"eb085e9b1c80d110","fromSide":"left","toNode":"e9176d1ae4a28052","toSide":"right"},
+		{"id":"9c0b9950a4c36ba4","fromNode":"78f673c38eb3b307","fromSide":"top","toNode":"e9176d1ae4a28052","toSide":"bottom"},
+		{"id":"5026f2482b8044f0","fromNode":"e9176d1ae4a28052","fromSide":"top","toNode":"7427e840e5e9e5f3","toSide":"bottom"},
+		{"id":"7923da55ef7a6234","fromNode":"5da789520c0e9e53","fromSide":"right","toNode":"e9176d1ae4a28052","toSide":"left"},
+		{"id":"7efbd383a1cf0b28","fromNode":"d93e7eb48e89cea5","fromSide":"right","toNode":"e9176d1ae4a28052","toSide":"left"},
+		{"id":"a8fd274bbb05df51","fromNode":"1cbc3d853614445d","fromSide":"right","toNode":"e9176d1ae4a28052","toSide":"left"},
+		{"id":"b309b9a9312e6bc4","fromNode":"65cbcc9253fde5aa","fromSide":"right","toNode":"e9176d1ae4a28052","toSide":"left"},
+		{"id":"4c435d2f3a93ac3a","fromNode":"11b586e5cafdb0c9","fromSide":"right","toNode":"e9176d1ae4a28052","toSide":"left"}
+	]
+}
