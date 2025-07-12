@@ -9,3 +9,11 @@ Cosmic energy:
 
 
 Parallel Sorcery:
+
+Property
+Fusion
+
+
+The Shadow Flame
+
+Shadow Company

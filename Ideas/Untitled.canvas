@@ -2,10 +2,9 @@
 	"nodes":[
 		{"id":"d9a7c627b6f461c0","type":"text","text":"SCENARIO 1\n\nDuration: 5-7 minutes\n\nIt is like a colosseum scene and the camera follows a kid walking into it.","x":-640,"y":-420,"width":580,"height":540},
 		{"id":"66cd5434e4b2a88b","type":"text","text":"TODO","x":0,"y":-420,"width":640,"height":600},
-		{"id":"88946b5241842661","type":"file","file":"STUFF.md","x":-640,"y":180,"width":400,"height":440},
-		{"id":"f13d146c0d35a38f","x":-2100,"y":-940,"width":250,"height":80,"type":"text","text":"-How do we decide which card defeats the other?"},
-		{"id":"b8d81e22d8b4a9b1","x":-1550,"y":-1000,"width":216,"height":280,"type":"text","text":"Enemy represented by a card"},
-		{"id":"acfaeec2f833c01f","x":-1780,"y":-380,"width":100,"height":140,"type":"text","text":""},
+		{"id":"f13d146c0d35a38f","type":"text","text":"-How do we decide which card defeats the other?","x":-2100,"y":-940,"width":250,"height":80},
+		{"id":"b8d81e22d8b4a9b1","type":"text","text":"Enemy represented by a card","x":-1550,"y":-1000,"width":216,"height":280},
+		{"id":"acfaeec2f833c01f","type":"text","text":"","x":-1780,"y":-380,"width":100,"height":140},
 		{"id":"1a55db38c53ccc1c","type":"text","text":"Player represented by a card","x":-1550,"y":-150,"width":216,"height":280},
 		{"id":"8374b012a9e99716","type":"text","text":"","x":-1650,"y":-380,"width":100,"height":140},
 		{"id":"dea847d713ebddc8","type":"text","text":"","x":-1520,"y":-380,"width":100,"height":140}
